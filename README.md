@@ -22,7 +22,7 @@
 
 ###
 
-<h1 align="center">hey 👋 I'm Kushwaha Akash</h1>
+<h1 align="center">hey 👋 I'm Akash Kushwaha</h1>
 
 ###
 
